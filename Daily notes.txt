@@ -1,0 +1,89 @@
+Language:-communication
+---------
+
+
+Programming languages:
+=====================
+
+
+					POP         	 		OOP
+
+		B,BCPl,C,COBOL...				C++,JAVA,PYTHON,.NET....
+											1995,1991	
+					
+												OOPS..
+						1)PERFORMANCE		INHERITANCE,POLYMORPHISAM
+
+						2)SECURITY			ABSTRACTION,ENCAPSUALTION
+
+
+
+								OOPS / OOPL
+
+										PYTHON		
+
+
+
+PYTHON:
+=======
+GUIDO VAN ROSSAM  1991
+
+
+			SIMPLE
+
+
+		JAVA 
+
+
+	Class Test
+{
+
+public static void main(Stringa args[])
+{
+System.out.println("welcome to java...");
+
+}
+
+}
+javac filename.java
+
+java classname			....
+
+
+		python
+
+	print("welcome to python")
+
+
+1)functional programming features from C
+
+2)object oriented programming features from C++
+
+3)scripting language  features from shell script
+
+4)modular programming from modula 3
+
+
+where we can use python:
+=======================
+
+1)desktop apps  corepython
+
+2)web applications		django,flask
+
+3)db apps
+	
+4)netwroking programming
+
+5)gaming apps
+
+6)data analysis
+
+7)machine learning
+
+8)IOT
+
+9)AI
+
+
+
