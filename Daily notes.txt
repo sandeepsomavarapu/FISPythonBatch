@@ -87,3 +87,90 @@ where we can use python:
 
 
 
+
+Datatypes:
+==========
+python dynamic typed PL
+
+
+		name="sandeep"     str
+
+
+group of objects
+List:
+====
+
+
+1)insertion order is preserved
+
+2)haterogeneous objects allowed 
+
+3)duplicates are allowed 
+
+4)growable in nature 
+
+5)[]
+
+6)list is muttable
+
+Tuple:
+====
+
+
+1)insertion order is preserved
+
+2)haterogeneous objects allowed 
+
+3)duplicates are allowed 
+
+4)growable in nature 
+
+5)()
+
+6)tuple is immutable
+
+
+Set:
+====
+
+
+1)insertion order is not preserved
+
+2)haterogeneous objects allowed 
+
+3)duplicates are not allowed 
+
+4)growable in nature 
+
+5){}
+
+6)set is muttable
+
+FrozenSet:
+===========
+
+
+1)insertion order is not preserved
+
+2)haterogeneous objects allowed 
+
+3)duplicates are not allowed 
+
+4)growable in nature 
+
+5){}
+
+6)set is immuttable
+
+
+dict:
+=====
+key,value
+
+
+
+
+
+
+
+
