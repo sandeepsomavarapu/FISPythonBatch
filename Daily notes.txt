@@ -170,6 +170,42 @@ key,value
 
 
 
+Exception Handling:
+===================
+
+exception handling is a mechanisam to convert system defined error messages into user friendly error messages 
+
+
+Ora123A
+
+
+py
+
+1
+2 error   -->abnormal termination,system defined error messages 
+3
+4
+5
+
+
+
+
+100
+
+
+
+			normal termination,friendly error messages
+
+try ---error code 
+
+except---handling code 
+
+
+
+
+
+
+
 
 
 
